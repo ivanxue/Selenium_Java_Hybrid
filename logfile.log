@@ -1,0 +1,12 @@
+2017-08-11 12:26:15,522 INFO  [Log] **************************************************************************************** 
+2017-08-11 12:26:15,522 INFO  [Log] **************************************************************************************** 
+2017-08-11 12:26:15,522 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              GoogleTest_TestNG       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-08-11 12:26:15,522 INFO  [Log] **************************************************************************************** 
+2017-08-11 12:26:15,522 INFO  [Log] **************************************************************************************** 
+2017-08-11 12:26:16,152 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-08-11 12:26:17,985 INFO  [Log] New driver instantiated 
+2017-08-11 12:26:17,991 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-08-11 12:26:21,358 INFO  [Log] Navigate to http://www.google.com successfully 
+2017-08-11 12:26:21,395 INFO  [Log] Search keyword field is found on the page 
+2017-08-11 12:26:21,460 INFO  [Log] Search keyword field is found on the page 
+2017-08-11 12:26:21,571 INFO  [Log] Search keyword field is found on the page 
