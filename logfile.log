@@ -1,12 +1,25 @@
-2017-08-11 12:26:15,522 INFO  [Log] **************************************************************************************** 
-2017-08-11 12:26:15,522 INFO  [Log] **************************************************************************************** 
-2017-08-11 12:26:15,522 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              GoogleTest_TestNG       $$$$$$$$$$$$$$$$$$$$$$$$$ 
-2017-08-11 12:26:15,522 INFO  [Log] **************************************************************************************** 
-2017-08-11 12:26:15,522 INFO  [Log] **************************************************************************************** 
-2017-08-11 12:26:16,152 INFO  [Log] Total number of Row used return as < 2 >. 
-2017-08-11 12:26:17,985 INFO  [Log] New driver instantiated 
-2017-08-11 12:26:17,991 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
-2017-08-11 12:26:21,358 INFO  [Log] Navigate to http://www.google.com successfully 
-2017-08-11 12:26:21,395 INFO  [Log] Search keyword field is found on the page 
-2017-08-11 12:26:21,460 INFO  [Log] Search keyword field is found on the page 
-2017-08-11 12:26:21,571 INFO  [Log] Search keyword field is found on the page 
+2017-10-23 15:33:31,091 INFO  [Log] **************************************************************************************** 
+2017-10-23 15:33:31,092 INFO  [Log] **************************************************************************************** 
+2017-10-23 15:33:31,092 INFO  [Log] $$$$$$$$$$$$$$$$$$$$$              MercuryTourTest_TestNG       $$$$$$$$$$$$$$$$$$$$$$$$$ 
+2017-10-23 15:33:31,092 INFO  [Log] **************************************************************************************** 
+2017-10-23 15:33:31,092 INFO  [Log] **************************************************************************************** 
+2017-10-23 15:33:31,637 INFO  [Log] Total number of Row used return as < 2 >. 
+2017-10-23 15:33:32,738 INFO  [Log] New driver instantiated 
+2017-10-23 15:33:32,746 INFO  [Log] Implicit wait applied on the driver for 20 seconds 
+2017-10-23 15:33:35,103 INFO  [Log] Navigate to http://newtours.demoaut.com/mercurypurchase.php successfully 
+2017-10-23 15:33:35,135 INFO  [Log] User Name field is found on the page 
+2017-10-23 15:33:35,199 INFO  [Log] User Name field is found on the page 
+2017-10-23 15:33:35,474 INFO  [Log] Password field is found on the page 
+2017-10-23 15:33:35,566 INFO  [Log] Sign-in button is found on the page 
+2017-10-23 15:33:39,081 INFO  [Log] Trip Type radio button is found on the page 
+2017-10-23 15:33:39,536 INFO  [Log] Continue button at Find Flights is found on the page 
+2017-10-23 15:33:40,757 INFO  [Log] Continue button at Reserve Flights is found on the page 
+2017-10-23 15:33:40,807 INFO  [Log] Continue button at Reserve Flights is found on the page 
+2017-10-23 15:33:42,311 INFO  [Log] First Name field is found on the page 
+2017-10-23 15:33:42,356 INFO  [Log] First Name field is found on the page 
+2017-10-23 15:33:42,580 INFO  [Log] Last Name field is found on the page 
+2017-10-23 15:33:42,673 INFO  [Log] Credit Card number field is found on the page 
+2017-10-23 15:33:42,740 INFO  [Log] Ticketless Travel checkbox is found on the page 
+2017-10-23 15:33:46,978 INFO  [Log] Secure Purchase button is found on the page 
+2017-10-23 15:33:47,822 INFO  [Log] Back To Home button is found on the page 
+2017-10-23 15:33:47,864 INFO  [Log] Back To Home button is found on the page 
